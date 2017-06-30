@@ -10,6 +10,7 @@
    git config --global user.email "instructor.boulet@gmail.com"
    git config --global user.name "instructorboulet"
    git commit -m "Created a HelloWorld"
+   git push origin
 
 */
 public class HelloWorld {
