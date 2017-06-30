@@ -1,6 +1,16 @@
 
 /*
-   java -classpath .;HelloWorld
+
+   java -classpath ./ HelloWorld
+   
+   git add HelloWorld.java
+   git status
+  
+
+   git config --global user.email "instructor.boulet@gmail.com"
+   git config --global user.name "instructorboulet"
+   git commit -m "Created a HelloWorld"
+
 */
 public class HelloWorld {
  
