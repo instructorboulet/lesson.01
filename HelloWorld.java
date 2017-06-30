@@ -12,10 +12,14 @@
    git commit -m "Created a HelloWorld"
    git push origin
 
+-----------------------------------------------------------------------
+
+
 */
 public class HelloWorld {
  
    public static void main(String[] args){
 	System.out.println("HelloWorld By Jean Boulet");
+        System.out.println("Email Address: instructor.boulet@gmail.com");
    }
 }
